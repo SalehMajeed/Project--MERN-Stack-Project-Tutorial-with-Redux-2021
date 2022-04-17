@@ -14,7 +14,7 @@ function MainScreen({ title, children }) {
                 <hr />
               </>
             )}
-            e{children}
+            {children}
           </div>
         </Row>
       </Container>
